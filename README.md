@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caneva20" alt="caneva20" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Roblox**
 
-- 💬 Ask me about **.NET Core, Unity, Flutter**
+- 💬 Ask me about **.NET Core, Flutter, Unity, Roblox, Game Dev**
 
-- 📫 You can reach at **hardlymersk@gmail.com**
+- 📫 You can reach at **caneva20@duck.com**
 
 - 📄 Know about my experiences [https://stackoverflow.com/story/caneva20](https://stackoverflow.com/story/caneva20)
 
