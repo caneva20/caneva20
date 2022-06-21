@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caneva20" alt="caneva20" /></a> </p>
 
-- 🌱 I’m currently learning **Roblox**
+- 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **.NET Core, Flutter, Unity, Roblox, Game Dev**
+- 💬 Ask me about **.NET, Flutter, Unity, Game Dev**
 
 - 📫 You can reach at **caneva20@duck.com**
 
